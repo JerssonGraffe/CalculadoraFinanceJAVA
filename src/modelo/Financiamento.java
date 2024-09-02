@@ -1,4 +1,4 @@
-package Faculdade.ProjetoJava.src.modelo;
+package src.modelo;
 
 public class Financiamento {
     

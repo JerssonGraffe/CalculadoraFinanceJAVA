@@ -1,4 +1,4 @@
-package Faculdade.ProjetoJava.src.util;
+package src.util;
 
 import java.util.Scanner;
 

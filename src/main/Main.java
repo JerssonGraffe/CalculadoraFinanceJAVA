@@ -1,7 +1,7 @@
-package Faculdade.ProjetoJava.src.main;
+package src.main;
 
-import Faculdade.ProjetoJava.src.modelo.Financiamento;
-import Faculdade.ProjetoJava.src.util.InterfaceUsuario;
+import src.modelo.Financiamento;
+import src.util.InterfaceUsuario;
 
 import java.util.ArrayList;
 import java.util.List;
